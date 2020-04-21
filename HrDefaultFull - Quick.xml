@@ -832,7 +832,7 @@
   <inspection_tool class="RegExpSingleCharAlternation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RegExpUnexpectedAnchor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="RequireParameterInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="RequireParameterInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
