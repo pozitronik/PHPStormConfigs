@@ -1,5 +1,5 @@
 <profile version="1.0" is_locked="false">
-  <option name="myName" value="TWS210221" />
+  <option name="myName" value="TWSFull" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="AngularAmbiguousComponentTag" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -396,10 +396,14 @@
   <inspection_tool class="MethodCanBePrivateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MethodShouldBeFinalInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MethodVisibilityInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="MissedFieldInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MissedParamInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MissedViewInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MissingActiveRecordInActiveQueryInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MissingInheritDocInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="MissingOrEmptyGroupStatementInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingParameterTypeDeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="MissingPropertyAnnotationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingReturnTypeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingTranslationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MongoJSDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -519,7 +523,6 @@
   <inspection_tool class="PhpUnitMissingTargetForTestInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnused" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpUnusedFieldDefaultValueInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpUnusedParameterInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DONT_REPORT_ANONYMOUS" value="true" />
   </inspection_tool>
@@ -535,6 +538,7 @@
   <inspection_tool class="ProperNullCoalescingOperatorUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ANALYZE_TYPES" value="false" />
   </inspection_tool>
+  <inspection_tool class="PropertiesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="PropertyAnnotationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyCanBePrivateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyCanBeStaticInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -545,6 +549,7 @@
   <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RegExpDuplicateCharacterInClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpRedundantNestedCharacterClass" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="RequireParameterInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
@@ -673,6 +678,7 @@
   <inspection_tool class="TypeScriptValidateJSTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeScriptValidateTypes" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TypescriptExplicitMemberType" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="UndetectableTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryContinueJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLabelOnBreakStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -686,10 +692,9 @@
   <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="UntrustedInclusionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedTranslationsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UsingInclusionReturnValueInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ViewMissedPhpDocInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="VirtualTypeCheckInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VueDataFunction" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VueDuplicateTag" enabled="false" level="WARNING" enabled_by_default="false" />
